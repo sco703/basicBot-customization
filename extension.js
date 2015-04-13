@@ -93,7 +93,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "Welcome to the Chill Zone. Hope you're doing well. What?",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
